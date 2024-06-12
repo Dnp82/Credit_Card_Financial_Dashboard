@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=7nRBcZnL&id=F0719B79C60C2D2D50A7F0C216A9A0DC31ADFFD6&thid=OIP.7nRBcZnLOgI6xQMEXuA3JAHaEH&mediaurl=https%3a%2f%2fwww.debt.com%2fwp-content%2fuploads%2f2014%2f05%2fCredit-Card-Visa-Master-Card.jpg" alt="Italian Trulli">
+<img src="C:\Users\Dell\OneDrive\Desktop\Projects\Power BI\Credit Card Financial Dashboard\Credit-Card-Visa-Master-Card.jpg" alt="Italian Trulli">
 This is a financial dashboard which has been made to dive deep into the data and generate meaningful insights.
 
 ## Project Objective
