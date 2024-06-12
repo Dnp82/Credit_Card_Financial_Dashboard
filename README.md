@@ -13,6 +13,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## Insights<be>
 <img src="https://github.com/Dnp82/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Customer%20Report.jpg">
 
+<img src="https://github.com/Dnp82/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Transaction%20Report.jpg">
 
 ### Credit card financial dashboard using Power BI:<br>
 • Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.<br>
