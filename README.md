@@ -10,7 +10,10 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 2.Create tables in SQL.<br>
 3.Import csv file into SQL.<br>
 
-## Insights<br>
+## Insights<be>
+<img src="https://github.com/Dnp82/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Customer%20Report.jpg">
+
+
 ### Credit card financial dashboard using Power BI:<br>
 • Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.<br>
 • Streamlined data processing & analysis to monitor key performance metrics and trends.<br>
